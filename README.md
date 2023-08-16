@@ -28,7 +28,7 @@ For modelling the datset, we split the dataset into train and test in the ratio 
 
 For our model, 
 Root mean square error : 832.1560376684733
-Mean absolute error : 832.1560376684733
+Mean absolute error : 613.0969759558786
   
 </ol>
 
